@@ -21,7 +21,7 @@ Requirements:
     Transformer (pytorch): https://github.com/huggingface/transformers
     GPU
 
-##Training
+## Training
 ```
-python train_aapd.py --max_seq_length 256 
+python train_aapd.py
 ```
